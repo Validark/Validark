@@ -1,4 +1,4 @@
-### Hi there 👋
+I recently wrote a [paper on a new data structure I invented that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem!](https://validark.github.io/DynSDT) I also made a friendly [demo](https://validark.github.io/DynSDT/demo) for it! If you like data structures, check it out!
 
 <!--
 **Validark/Validark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
