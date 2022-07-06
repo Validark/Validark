@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">	
-<text x="0" y="11" text-anchor="start" fill="black">Θ</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 30">	
+<text x="0" y="28" text-anchor="start" fill="black">Θ</text>
 	
 <style>
 @font-face {
@@ -12,7 +12,7 @@
 
 text {
 	font-family: "Math_Jax";
-	font-size: 10pt;
+	font-size: 40px;
 }
 </style>
 </svg>
