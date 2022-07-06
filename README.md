@@ -1,7 +1,7 @@
 ## About Me
 - [📃](https://validark.github.io/DynSDT) Wrote a [paper](https://validark.github.io/DynSDT) on my [new data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
     - Also made a friendly [demo](https://validark.github.io/DynSDT/demo) for it!
-- $\Huge \Theta$ [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) user
+- [<sub><img width="18" src="https://raw.githubusercontent.com/Validark/Validark/master/itheta.svg"></sub>](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) connoisseur
     - Did you know that a priority queue implemented as a [1-2-3 Skip list](https://github.com/Validark/1-2-3-Skip-List) can perform the extract-min operation in amortized constant time?
         - And yes, insertions are still logarithmic!
 - [<sub><sub><img width="22" src="https://roblox-ts.com/img/favicon.ico"></sub></sub>](https://roblox-ts.com) Co-Developed the initial version of [roblox-ts](https://roblox-ts.com) with [**@Osyris**<sub>rblx</sub>](https://github.com/osyrisrblx)
