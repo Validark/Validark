@@ -6,5 +6,8 @@ text {
 	font-size: 40px;
 	font-style: italic;
 }
+
+@media (prefers-color-scheme: dark)  { text { fill: rgb(201, 209, 217); } }
+@media (prefers-color-scheme: light) { text { fill: rgb( 36,  41,  47); } }
 </style>
 </svg>
