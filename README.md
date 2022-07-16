@@ -3,7 +3,7 @@
     - Also made a friendly [demo](https://validark.github.io/DynSDT/demo) for it!
 - [<sub><img width="18" src="https://raw.githubusercontent.com/Validark/Validark/master/itheta_path.svg"></sub>](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) connoisseur
     - Did you know that a priority queue implemented as a [1-2-3 Skip list](https://github.com/Validark/1-2-3-Skip-List) can perform the extract-min operation in amortized constant time?
-        - And yes, insertions are still logarithmic!
+        - And yes, insertions are still logarithmic! And any other value can be extracted in logarithmic time!
 - [<sub><sub><img width="22" src="https://raw.githubusercontent.com/Validark/Validark/master/rbxts.svg"></sub></sub>](https://roblox-ts.com) Co-Developed the initial version of [roblox-ts](https://roblox-ts.com) with [**@Osyris**<sub>rblx</sub>](https://github.com/osyrisrblx)
     - Ask me how to parse and transform your complex type in the TypeScript type-language!
 - [<sub><sub><img src="https://avatars.githubusercontent.com/u/22812966?s=400&amp;u=f88abb95db683705c4fc526b76a562ae4a21053c&amp;v=4" width="21" alt="@RoStrap"></sub></sub>](https://rostrap.github.io/) Made a couple of cool libraries under the [RoStrap](https://rostrap.github.io/) project
