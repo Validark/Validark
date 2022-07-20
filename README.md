@@ -1,6 +1,5 @@
 ## About Me
-- [📃](https://validark.github.io/DynSDT) Wrote a [paper](https://validark.github.io/DynSDT) on my [new data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
-    - Also made a friendly [demo](https://validark.github.io/DynSDT/demo) for it!
+- [📃](https://validark.github.io/DynSDT) Created an interactive [demo](https://validark.github.io/DynSDT/demo) and [paper](https://validark.github.io/DynSDT) on my [newly invented data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
 - [<sub><img width="18" src="https://raw.githubusercontent.com/Validark/Validark/master/itheta_path.svg"></sub>](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) connoisseur
     - Did you know that a priority queue implemented as a [1-2-3 Skip list](https://github.com/Validark/1-2-3-Skip-List) can perform the extract-min operation in amortized constant time?
         - And yes, insertions are still logarithmic! And any other value can be extracted in logarithmic time!
