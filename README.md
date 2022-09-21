@@ -1,4 +1,10 @@
-## About Me
+### Exciting New Tech:
+- [Bun JavaScript runtime](https://bun.sh)
+- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/zig-z.svg" height="22"></sub></sub>](https://ziglang.org/) [Zig programming language](https://ziglang.org/)
+- [Mill instruction set architecture](https://millcomputing.com/)
+- [Pijul version control system](https://pijul.org/)
+
+### About Me:
 - [📃](https://validark.github.io/DynSDT/) Created an interactive [demo](https://validark.github.io/DynSDT/demo/) and [paper](https://validark.github.io/DynSDT/) on my [newly invented data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
 - [<sub><img width="18" src="https://raw.githubusercontent.com/Validark/Validark/master/itheta_path.svg"></sub>](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) connoisseur
     - Did you know that a priority queue implemented as a [1-2-3 Skip list](https://github.com/Validark/1-2-3-Skip-List) can perform the extract-min operation in amortized constant time?
@@ -9,7 +15,7 @@
     - Certifiable [material design](https://material.io/) enjoyer
 - [<sub><sub><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="22"></sub></sub>](https://www.lua.org/) My first programming language was [Lua](https://www.lua.org/)
     - The `__index` metamethod makes the [Aho-Corasick algorithm](https://gist.github.com/Validark/d493cfd1b3425c2e3073f5ccd08fbeb9) *so* clean!
-- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/zig-z.svg" height="22"></sub></sub>](https://ziglang.org/) My next big project will be written in [Zig](https://ziglang.org/)!
+
 
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Validark&show_icons=true&include_all_commits=true" alt="Validark_stats" />
