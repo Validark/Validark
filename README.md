@@ -1,8 +1,7 @@
 ### Exciting New Tech:
 - [Bun JavaScript runtime](https://bun.sh)
-- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/zig-z.svg" height="22"></sub></sub>](https://ziglang.org/) [Zig programming language](https://ziglang.org/)
+- [Zig programming language](https://ziglang.org/)
 - [Mill instruction set architecture](https://millcomputing.com/)
-- [ForwardCom instruction set architecture](https://www.forwardcom.info/)
 - [Pijul version control system](https://pijul.org/)
 
 ### About Me:
