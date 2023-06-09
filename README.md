@@ -14,6 +14,12 @@
 
 <br>
 
+Click the following image for a demo of my data structure:
+
+[<img src="https://repository-images.githubusercontent.com/478347237/17e73ed7-7dd5-4091-975a-3513b02b0183" alt="An image of my prefix trie data structure" height="250em">](https://validark.github.io/DynSDT/demo/)
+
+<br>
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Validark&show_icons=true&include_all_commits=true" alt="Validark_stats" /> -->
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Validark&layout=compact" alt="Validark_stats" /> -->
