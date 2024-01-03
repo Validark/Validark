@@ -1,5 +1,6 @@
 ## A little about me
-- [📃](https://validark.github.io/DynSDT/) Created an interactive [demo](https://validark.github.io/DynSDT/demo/) and [paper](https://validark.github.io/DynSDT/) on my [newly invented data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
+- 🚀 Created an [Accelerated Zig parser](https://github.com/Validark/Accelerated-Zig-Parser) up to 3x faster than the current version 🚀🚀🚀
+- 📃 Created an interactive [demo](https://validark.github.io/DynSDT/demo/) and [paper](https://validark.github.io/DynSDT/) on my [newly invented data structure](https://github.com/Validark/DynSDT) that improves upon prefix trees (i.e. tries) to better solve the scored autocomplete problem
 - [<sub><sub><img width="22" src="https://raw.githubusercontent.com/Validark/Validark/master/rbxts.svg"></sub></sub>](https://roblox-ts.com) Co-Developed the initial version of [roblox-ts](https://roblox-ts.com) with [**@Osyris**<sub>rblx</sub>](https://github.com/osyrisrblx)
     - Ask me how to parse and transform your complex type in the TypeScript type-language!
 - [<sub><sub><img src="https://avatars.githubusercontent.com/u/22812966?s=400&amp;u=f88abb95db683705c4fc526b76a562ae4a21053c&amp;v=4" width="21" alt="@RoStrap"></sub></sub>](https://rostrap.github.io/) Created the [RoStrap](https://rostrap.github.io/) project
