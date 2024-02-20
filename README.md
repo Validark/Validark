@@ -1,5 +1,5 @@
 ## A little about me
-- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/zig-z.svg" alt="Zig-z" height="22"></sub></sub>](https://github.com/Validark/Accelerated-Zig-Parser) Created an [Accelerated Zig parser](https://github.com/Validark/Accelerated-Zig-Parser) up to 3x faster than the current version 🚀🚀🚀
+- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/zig-z.svg" alt="Zig-z" height="22"></sub></sub>](https://github.com/Validark/Accelerated-Zig-Parser) [Accelerated the Zig parser](https://github.com/Validark/Accelerated-Zig-Parser) up to 3x 🚀🚀🚀
   - ⚡ [Zig](https://ziglang.org/) is my personal favorite programming language
 - [<sub><sub><img src="https://llvm.org/img/LLVM-Logo-Derivative-2.png" alt="LLVM dragon-head logo" height="22"></sub></sub>](https://github.com/llvm/llvm-project/issues/created_by/Validark) Assembly language theorist
   - Reduced the instruction count of `must_be_2_3_continuation` in [simdutf](https://github.com/simdutf/simdutf/pull/365)/[simdjson](https://github.com/simdjson/simdjson/pull/2113) from 6 to 4 on x86-64 (with similarly small improvements on other architectures). Although this sounds trivial, this garnered a 4% performance uplift in utf8 validation!
