@@ -48,6 +48,3 @@ Click the following image for a demo of my data structure:
   - Based on the theory of patches and not slow like DARCS
 - [Bun JavaScript runtime](https://bun.sh)
   - Blazingly fast runtime and toolkit for JavaScript
-
-
-<img src="https://raw.githubusercontent.com/Validark/Validark/master/slider2.svg" alt="Zig-z" height="200">
