@@ -14,7 +14,7 @@
 - [<sub><img width="18" src="https://raw.githubusercontent.com/Validark/Validark/master/itheta_path.svg"></sub>](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) [Big-Theta](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalLower.html) connoisseur
     - Did you know that a priority queue implemented as a [1-2-3 Skip list](https://github.com/Validark/1-2-3-Skip-List) can perform the extract-min operation in amortized constant time?
         - And yes, insertions are still logarithmic! And any other value can be extracted in logarithmic time!
-
+- [<sub><sub><img src="https://raw.githubusercontent.com/Validark/Validark/master/monkeytype.svg" alt="monkeytype" height="22"></sub></sub>](https://monkeytype.com/) 100 WPM on [Monkeytype](https://monkeytype.com/)
 
 <br>
 
