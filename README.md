@@ -3,7 +3,7 @@
   - ⚡ [Zig](https://ziglang.org/) is my personal favorite programming language
 - [<sub><sub><img src="https://llvm.org/img/LLVM-Logo-Derivative-2.png" alt="LLVM dragon-head logo" height="22"></sub></sub>](https://github.com/llvm/llvm-project/issues/created_by/Validark) [Assembly auditor](https://github.com/llvm/llvm-project/issues/created_by/Validark)
   - Reduced the instruction count of `must_be_2_3_continuation` in [simdutf](https://github.com/simdutf/simdutf/pull/365)/[simdjson](https://github.com/simdjson/simdjson/pull/2113) from 6 to 4 on x86-64 (with similarly small improvements on other architectures). Although this sounds trivial, this garnered a 4% performance uplift in utf8 validation!
-- 📃 Invented a data structure [[demo](https://validark.github.io/DynSDT/demo/), [paper](https://validark.github.io/DynSDT/)] that improves upon prefix trees (i.e. tries) to solve the scored autocomplete problem orders of magnitude faster 🚀🚀🚀🚀🚀
+- 📃 Invented a data structure [[demo](https://validark.dev/DynSDT/demo/), [paper](https://validark.dev/DynSDT/)] that improves upon prefix trees (i.e. tries) to solve the scored autocomplete problem orders of magnitude faster 🚀🚀🚀🚀🚀
 - [<sub><sub><img width="22" src="https://raw.githubusercontent.com/Validark/Validark/master/rbxts.svg"></sub></sub>](https://roblox-ts.com) Co-Developed the initial version of [roblox-ts](https://roblox-ts.com) with [**@Osyris**<sub>rblx</sub>](https://github.com/osyrisrblx)
     - Created design to [eliminate immediately-invoked function expressions](https://github.com/roblox-ts/roblox-ts/issues/537) (IIFE's)
     - Ask me how to parse and transform your complex type in the TypeScript type-language!
@@ -20,7 +20,7 @@
 
 Click the following image for a demo of my data structure:
 
-[<img src="https://repository-images.githubusercontent.com/478347237/17e73ed7-7dd5-4091-975a-3513b02b0183" alt="An image of my prefix trie data structure" height="250em">](https://validark.github.io/DynSDT/demo/)
+[<img src="https://repository-images.githubusercontent.com/478347237/17e73ed7-7dd5-4091-975a-3513b02b0183" alt="An image of my prefix trie data structure" height="250em">](https://validark.dev/DynSDT/demo/)
 
 <br>
 
