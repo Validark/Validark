@@ -35,7 +35,7 @@ Click the following image for a demo of my data structure:
 |:-:|:-:|
 |<h3>[Performance Matters (Strange Loop 2019)](https://www.youtube.com/watch?v=r-TLSBdHe1A&t=458s)</h3>|[<img src="https://github.com/Validark/Validark/assets/15217173/750a4833-e35c-486d-88e9-8f1b5e651c32" alt="Performance Matters (Strange Loop 2019)" height="150em">](https://www.youtube.com/watch?v=r-TLSBdHe1A&t=458s)|
 |<h3>[Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)</h3>|[<img src="https://github.com/Validark/Validark/assets/15217173/b1ad7cb1-d233-406f-91d9-6b36d23091e6" alt="Data-Oriented Design and C++" height="150em">](https://www.youtube.com/watch?v=rX0ItVEVjHc)|
-|<h3>[Practical Data-oriented Design](https://vimeo.com/649009599)</h3>|[<img src="https://github.com/Validark/Validark/assets/15217173/bf653d99-070e-4623-84c4-a49ec7186d64" alt="Practical Data-oriented Design" height="150em">](https://vimeo.com/649009599)|
+|<h3>[Practical Data-oriented Design](https://youtube.com/watch?v=IroPQ150F6c)</h3>|[<img src="https://github.com/Validark/Validark/assets/15217173/bf653d99-070e-4623-84c4-a49ec7186d64" alt="Practical Data-oriented Design" height="150em">](https://m.youtube.com/watch?v=IroPQ150F6c)|
 |||
 
 ## Exciting new tech
